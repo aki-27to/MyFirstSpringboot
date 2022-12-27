@@ -18,7 +18,7 @@ GitHub上でPull Requestを作ってみる
 
 http://localhost:8080/hello アクセス時に"hello world"と表示する
 
-http://localhost:8080/japanアクセス時に"こんにちは"と表示する。
+http://localhost:8080/japan アクセス時に"こんにちは"と表示する。
 
 
 クエリパラメータ仕様
